@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'AirCategoryKit_Example' do
+  pod 'AirCategoryKit', :path => '../'
+
+  target 'AirCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
