@@ -1,0 +1,6 @@
+framework module Pods_AirCategoryKit_Tests {
+  umbrella header "Pods-AirCategoryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

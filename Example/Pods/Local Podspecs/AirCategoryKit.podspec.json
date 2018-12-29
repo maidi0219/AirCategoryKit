@@ -1,0 +1,22 @@
+{
+  "name": "AirCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of AirCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/maidi0219/AirCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "maidi0219": "784920085@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/maidi0219/AirCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AirCategoryKit/Classes/**/*"
+}

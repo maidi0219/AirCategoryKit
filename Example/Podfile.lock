@@ -1,0 +1,16 @@
+PODS:
+  - AirCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - AirCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  AirCategoryKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AirCategoryKit: 5cfb452483f55411e75d892ddb1641e477dec8e8
+
+PODFILE CHECKSUM: 5219e7117a878f88cd9c30e990cca04138127b7f
+
+COCOAPODS: 1.2.0
